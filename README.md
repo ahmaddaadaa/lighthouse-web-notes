@@ -1,11 +1,11 @@
 # Ahmad's Notes:
 * Week 1
   * Day 1
-  * Day 1
-  * Day 1
-  * Day 1
-  * Day 1
-* Week 1
+  * Day 2
+  * Day 3
+  * Day 4
+  * Day 5
+* Week 2
 
 # this is an H1 header (largest)
 
